@@ -17,7 +17,15 @@ https://assetstore.unity.com/packages/3d/props/weapons/rockets-missiles-bombs-ca
 
 
 
+Tasks for nextweek
 
+add to README
 *pictures of coding challenge
 *pictures of different parts of game
 *link to sky asset
+
+create 5 interactable objects + 2 with sockets
+add eyeballs to assets
+add coding script to assets
+correct eye position 
+film with VR headset
