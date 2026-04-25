@@ -13,3 +13,11 @@ https://assetstore.unity.com/packages/3d/props/food/3d-props-bakery-object-17167
 https://assetstore.unity.com/packages/2d/gui/icons/free-2d-food-icons-desserts-270823
 https://assetstore.unity.com/packages/3d/characters/eye-advanced-30762
 https://assetstore.unity.com/packages/3d/props/weapons/rockets-missiles-bombs-cartoon-low-poly-pack-73141
+
+
+
+
+
+*pictures of coding challenge
+*pictures of different parts of game
+*link to sky asset
