@@ -3,8 +3,8 @@ Not only that, but they are also consuming humans and infecting them with their 
 These hot air balloons overlook these new creatures’ home base, which is a gigantic waffle covered in sticky syrup and whipped cream.
 Humans cannot survive for long without sustenance or under constant fear; therefore, they must take action to reclaim their world or risk extinction. 
 
-My project challenge was to incorporate some coding into my project. I used this to make the embedded eyes within the mutated food items twitch.
-The challenge I overcame was adjusting the settings for the challenge and correcting the eye position. 
+My project challenge was to use some coding in my project. My goal is to make some of the eyes move using code.
+I am particularly fond of the eyes on the cherry as it incorporates both interactable features and code.
 
 
 Assets used in game
@@ -20,11 +20,11 @@ https://assetstore.unity.com/packages/3d/props/weapons/rockets-missiles-bombs-ca
 Tasks for nextweek
 
 add to README
-*pictures of coding challenge - 3
+*pictures of coding challenge - 2
 *pictures of different parts of game - 3 
 *link to sky asset
 
-create 5 interactable objects + 2 with sockets - cake (2) , missile, donut, eyeball (cherry) (2)
+create 5 interactable objects + 2 with sockets - cake , missile, donut, eyeball (cherry) (2)
 add eyeballs to assets
 add coding script to assets
 film with VR headset
