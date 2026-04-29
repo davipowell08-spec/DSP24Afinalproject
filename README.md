@@ -20,6 +20,9 @@ https://polyhaven.com/a/sunflowers_puresky
 
 Tasks for nextweek
 <img width="2266" height="1317" alt="pic 1" src="https://github.com/user-attachments/assets/b660a7dd-69bf-46aa-92b1-764be4bd68fc" />
+<img width="1620" height="1194" alt="image" src="https://github.com/user-attachments/assets/972cb27a-2ac8-43a0-8389-18993f4bf410" />
+<img width="1816" height="976" alt="image" src="https://github.com/user-attachments/assets/246ceced-8169-4b72-a022-9fb0f720cb9c" />
+
 
 
 
