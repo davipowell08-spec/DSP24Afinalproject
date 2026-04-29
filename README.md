@@ -13,6 +13,7 @@ https://assetstore.unity.com/packages/3d/props/food/3d-props-bakery-object-17167
 https://assetstore.unity.com/packages/2d/gui/icons/free-2d-food-icons-desserts-270823
 https://assetstore.unity.com/packages/3d/characters/eye-advanced-30762
 https://assetstore.unity.com/packages/3d/props/weapons/rockets-missiles-bombs-cartoon-low-poly-pack-73141
+https://polyhaven.com/a/sunflowers_puresky
 
 
 
@@ -25,6 +26,6 @@ add to README
 *link to sky asset
 
 create 5 interactable objects + 2 with sockets - cake , missile, donut, eyeball (cherry) (2)
-add eyeballs to assets
-add coding script to assets
+add eyeballs to assets*
+add coding script to assets*
 film with VR headset
