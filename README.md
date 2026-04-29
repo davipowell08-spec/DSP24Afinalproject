@@ -20,12 +20,11 @@ https://assetstore.unity.com/packages/3d/props/weapons/rockets-missiles-bombs-ca
 Tasks for nextweek
 
 add to README
-*pictures of coding challenge
-*pictures of different parts of game
+*pictures of coding challenge - 3
+*pictures of different parts of game - 3 
 *link to sky asset
 
-create 5 interactable objects + 2 with sockets
+create 5 interactable objects + 2 with sockets - cake (2) , missile, donut, eyeball (cherry) (2)
 add eyeballs to assets
 add coding script to assets
-correct eye position 
 film with VR headset
