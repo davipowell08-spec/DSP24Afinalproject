@@ -13,15 +13,16 @@ https://assetstore.unity.com/packages/3d/props/food/3d-props-bakery-object-17167
 https://assetstore.unity.com/packages/2d/gui/icons/free-2d-food-icons-desserts-270823
 https://assetstore.unity.com/packages/3d/characters/eye-advanced-30762
 https://assetstore.unity.com/packages/3d/props/weapons/rockets-missiles-bombs-cartoon-low-poly-pack-73141
-https://polyhaven.com/a/sunflowers_puresky
+https://polyhaven.com/a/citrus_orchard
 
 
 
-
-Tasks for nextweek
+Pictures
 <img width="2266" height="1317" alt="pic 1" src="https://github.com/user-attachments/assets/b660a7dd-69bf-46aa-92b1-764be4bd68fc" />
 <img width="1620" height="1194" alt="image" src="https://github.com/user-attachments/assets/972cb27a-2ac8-43a0-8389-18993f4bf410" />
 <img width="1816" height="976" alt="image" src="https://github.com/user-attachments/assets/246ceced-8169-4b72-a022-9fb0f720cb9c" />
+<img width="901" height="601" alt="image" src="https://github.com/user-attachments/assets/446496c1-a981-4b78-95ee-d5d2553fa96f" />
+
 
 
 
