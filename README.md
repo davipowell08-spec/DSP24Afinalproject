@@ -22,10 +22,7 @@ Tasks for nextweek
 <img width="2266" height="1317" alt="pic 1" src="https://github.com/user-attachments/assets/b660a7dd-69bf-46aa-92b1-764be4bd68fc" />
 
 
-add to README
-*pictures of coding challenge - 2
-*pictures of different parts of game - 3 
-*link to sky asset
+
 
 create 5 interactable objects + 2 with sockets - cake , missile, donut, eyeball (cherry) (2)
 add eyeballs to assets*
