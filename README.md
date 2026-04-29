@@ -28,7 +28,5 @@ Pictures
 
 
 
-create 5 interactable objects + 2 with sockets - cake , missile, donut, eyeball (cherry) (2)
-add eyeballs to assets*
-add coding script to assets*
-film with VR headset
+
+
