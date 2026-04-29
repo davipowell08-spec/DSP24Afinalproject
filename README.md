@@ -29,5 +29,4 @@ Pictures
 
 
 
-add coding script to assets*
-film with VR headset
+
