@@ -4,7 +4,7 @@ These hot air balloons overlook these new creatures’ home base, which is a gig
 Humans cannot survive for long without sustenance or under constant fear; therefore, they must take action to reclaim their world or risk extinction. 
 
 My project challenge was to use some coding in my project. My goal is to make some of the eyes move using code.
-I am particularly fond of the eyes on the cherry as it incorporates both interactable features and code.
+I am particularly fond of the eye on the cherry
 
 
 Assets used in game
